@@ -18,3 +18,5 @@ mvn.cmd clean package <br/>
 run the application in embedded localhost server <br/>
 ./mvnw spring-boot:run <br/>
 mvnw.cmd package <br/>
+
+java -jar pract1-0.0.1-SNAPSHOT.jar --port=8090
